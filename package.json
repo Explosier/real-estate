@@ -1,0 +1,15 @@
+{
+    "name": "real-estate",
+    "version": "1.0.0",
+    "description": "Real Estate Demo Website",
+    "main": "index.html",
+    "scripts": {
+        "dev": "dead-server --host=localhost --port=4606"
+    },
+    "keywords": [],
+    "author": "Tadas Valantonis",
+    "license": "MIT",
+    "devDependencies": {
+        "dead-server": "^1.0.9"
+    }
+}
